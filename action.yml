@@ -87,7 +87,8 @@ runs:
               data: {
                 type: "workspaces",
                 attributes: {
-                  name: $name
+                  name: $name,
+                  execution-mode: "remote",
                 },
                 relationships: {
                   project: {
