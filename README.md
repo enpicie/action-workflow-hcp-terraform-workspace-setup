@@ -1,5 +1,7 @@
 # action-workflow-hcp-terraform-workspace
 
+## This repo is now archived as infrastructure has been migrated from HCP Terraform Cloud to using OpenTofu within GitHub Actions
+
 Reusable Workflow for GitHub Actions to ensure an HCP Terraform workspace exists and create the workspace if it does not exist.
 
 ## Usage
